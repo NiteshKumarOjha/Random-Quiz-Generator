@@ -29,7 +29,6 @@ Date:
 ...
 ```
 
-### Answer Key Format
 Each answer key file (`capitalsQuizAnswersX.txt`) follows this format:
 ```
 1. B
